@@ -933,7 +933,7 @@ export default function Home() {
           className="mx-auto flex max-w-[1440px] flex-col gap-4 text-xs md:flex-row md:items-center md:justify-between"
           style={{ color: muted }}
         >
-          <span>© {new Date().getFullYear()} Mohamed Tarek</span>
+          <span>© 2026 Mohamed Tarek</span>
           <span>{t.footer}</span>
 
           <a href="#home" className="site-link">
